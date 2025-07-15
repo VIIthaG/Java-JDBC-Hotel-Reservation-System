@@ -10,7 +10,7 @@ This is a Java-based application for managing hotel reservations. Features are a
 
 - **Delete Reservations:** Remove reservations that are no longer needed.
 
-## Getting Started 🚀
+## Getting Started 
 
 ### Prerequisites
 
